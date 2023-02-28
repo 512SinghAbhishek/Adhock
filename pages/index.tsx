@@ -1,4 +1,5 @@
 import Apply from "./Apply";
+import { useState } from 'react';
 import Footer from "./Footer";
 import Header from "./Header";
 import Link from 'next/link';
@@ -6,6 +7,8 @@ import Link from 'next/link';
 
 
 const index = () => {
+
+
     return (
         <div>
             <Header />

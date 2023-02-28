@@ -86,7 +86,7 @@ function Apply() {
                                                                     <div className="main_container o-hidden" id="tfullview">
 
                                                                         <div>
-                                                                            <table style={{ width: "30%" }} className="border-top-none border-bottom-none roundborder">
+                                                                            <table style={{ width: "100%" }} className="border-top-none border-bottom-none roundborder">
                                                                                 <tbody>
                                                                                     <tr><th>Organisation Details : </th>
                                                                                     </tr></tbody>
@@ -115,7 +115,7 @@ function Apply() {
                                                                                 </tbody>
                                                                             </table><div className="margintop10"></div>
 
-                                                                            <table style={{ width: "30%" }} className="border-top-none border-bottom-none roundborder">
+                                                                            <table style={{ width: "100%" }} className="border-top-none border-bottom-none roundborder">
                                                                                 <tbody>
                                                                                     <tr><th>Tender Details : </th>
                                                                                     </tr></tbody>
@@ -144,7 +144,7 @@ function Apply() {
 
                                                                             <div className="margintop10"></div>
 
-                                                                            <table style={{ width: "30%" }} className="border-top-none border-bottom-none roundborder">
+                                                                            <table style={{ width: "100%" }} className="border-top-none border-bottom-none roundborder">
                                                                                 <tbody>
                                                                                     <tr><th>Critical Dates : </th>
                                                                                     </tr></tbody>
@@ -171,7 +171,7 @@ function Apply() {
                                                                                 </tbody>
                                                                             </table>
                                                                             <div className="margintop10"></div>
-                                                                            <table style={{ width: "30%" }} className="border-top-none border-bottom-none roundborder">
+                                                                            <table style={{ width: "100%" }} className="border-top-none border-bottom-none roundborder">
                                                                                 <tbody>
                                                                                     <tr><th>Work Details : </th>
                                                                                     </tr></tbody>
@@ -200,7 +200,7 @@ function Apply() {
 
                                                                             <div className="margintop10"></div>
 
-                                                                            <table style={{ width: "30%" }} className="border-top-none border-bottom-none roundborder">
+                                                                            <table style={{ width: "100%" }} className="border-top-none border-bottom-none roundborder">
                                                                                 <tbody>
                                                                                     <tr><th>Tender Inviting Authority Details : </th>
                                                                                     </tr></tbody>

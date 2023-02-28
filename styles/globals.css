@@ -438,10 +438,13 @@ b, strong {
   color: #0ba10b;
 }
 
-.main_ip_1{
-  width: 76%;
-
+@media(min-width:1024px){
+  .main_ip_1{
+    width: 76%;
+  
+  }
 }
+
 .logo_ip{
   width: 23% !important;
 
@@ -475,4 +478,12 @@ b, strong {
   .logo_ip {
     width: 45% !important;
 }
+
+}
+
+@media(max-width:600px){
+  .main_ip_1{
+    width: 100%;
+  
+  }
 }
